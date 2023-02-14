@@ -1,1 +1,8 @@
 com.sh
+
+# idea ignore
+.idea/
+.idea
+*.ipr
+*.iml
+*.iws
